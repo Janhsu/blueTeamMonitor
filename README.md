@@ -19,6 +19,7 @@
 导入txt文件内容格式如下:
 百度,https://www.baidu.com
 github,https://github.com
+每个目标一行
 
 ### 开启飞书提醒
 默认注释了飞书发送消息的相关代码，目前仅支持弹窗提醒和日志记录的功能。
